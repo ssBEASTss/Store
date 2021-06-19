@@ -1,0 +1,38 @@
+.title-text{
+    font-family: 'Educated Deers', sans-serif;
+    text-align: center;
+                                                
+}
+
+.button-need {
+    
+    list-style-type: square;
+    list-style-position: inside;
+    
+
+ }
+ .para-text{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ .num-need{
+    list-style-type: decimal;
+    list-style-position: inside;
+    
+ }
+ hr.hr-style{
+     border:1px solid #ff4a67;
+ }
+
+ .domain-bullets{
+    
+     padding: 10px 12px;
+     display: block;
+     border-bottom:  1px solid #5a6370;
+     
+ }
+ .border-styled-li{
+   
+ }
+ li:last-child{
+     border: none;
+ }
